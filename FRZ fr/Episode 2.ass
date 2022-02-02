@@ -31,7 +31,7 @@ Style: YSY,Ink Free,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.30,0:00:09.62,I'm trying ok,,0,0,0,,Traduit par Lupin Traduction (MTL)
+Dialogue: 0,0:00:04.30,0:00:09.62,I'm trying ok,,0,0,0,,Traduit par Lupin Traduction (via MTL)
 Dialogue: 0,0:00:09.62,0:00:12.54,I'm trying ok,,0,0,0,,Traduction/Sous-titrage: Hrshl
 Dialogue: 0,0:00:15.42,0:00:18.45,I'm trying ok,,0,0,0,,À quoi ressemble le monde du chaos lointain?
 Dialogue: 0,0:00:18.65,0:00:21.83,I'm trying ok,,0,0,0,,Devrons-nous continuer les histoires de nos ancêtres?
