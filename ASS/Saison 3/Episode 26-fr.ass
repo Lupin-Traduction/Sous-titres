@@ -9,27 +9,6 @@ YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: C:/Users/aaaar/Documents/Lupin Traduction/ASS/episode 26/万圣街_1920x1080_万圣街_26.mp4
-Video File: C:/Users/aaaar/Documents/Lupin Traduction/ASS/episode 26/万圣街_1920x1080_万圣街_26.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 72
-Active Line: 84
-Video Position: 6168
-
-[V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: I'm trying ok,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1,2,10,10,10,1
-Style: Ira show,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
-Style: weird ira typo,Bahnschrift,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,1,10,10,10,1
-Style: Lotus root,Candara,45,&H002A4B85,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: end lotus root,Crayon Hand Regular 2016 Demo,40,&H00926F65,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: YSY,Ink Free,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
-
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:04.39,0:00:10.70,I'm trying ok,,0,0,0,,{\b1\fs48\pos(972,180)}Sous-titres fait en MTL, croisés avec le travail de PercyDan{\b0}
