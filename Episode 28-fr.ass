@@ -47,7 +47,7 @@ Dialogue: 0,0:01:17.81,0:01:19.06,I'm trying ok,,0,0,0,,{\pose(972,1060)}Gege a 
 Dialogue: 0,0:01:20.18,0:01:21.46,I'm trying ok,,0,0,0,,{\pose(972,1060)}Oh, il a un rendez-vous arrangé.
 Dialogue: 0,0:01:21.90,0:01:22.76,I'm trying ok,,0,0,0,,{\pose(972,1060)}Je vois.
 Dialogue: 0,0:01:23.06,0:01:24.17,I'm trying ok,,0,0,0,,{\pose(972,1060)}UN RENDEZ-VOUS
-Dialogue: 0,0:01:25.27,0:01:27.59,I'm trying ok,,0,0,0,,{\pose(972,1060)}{\i1}Gege{\i0} dit que ça a été arrangé par le grand proriétaire de 1031.
+Dialogue: 0,0:01:25.27,0:01:27.59,I'm trying ok,,0,0,0,,{\pose(972,1060)}{\i1}Gege{\i0} dit que ça a été arrangé par le propriétaire du 1031.
 Dialogue: 0,0:01:27.77,0:01:28.56,I'm trying ok,,0,0,0,,{\pose(972,1060)}Il n'a pas pu refuser.
 Dialogue: 0,0:01:29.35,0:01:31.01,I'm trying ok,,0,0,0,,{\pose(972,1060)}Lynn{\i1}-laoshi{\i0} est tellement ennuyeux.
 Dialogue: 0,0:01:31.14,0:01:33.05,I'm trying ok,,0,0,0,,{\pose(972,1060)}Tellement triste pour la fille avec laquelle il est.
@@ -56,7 +56,7 @@ Dialogue: 0,0:01:36.55,0:01:37.21,I'm trying ok,,0,0,0,,{\pose(972,1060)}Et alor
 Dialogue: 0,0:01:37.64,0:01:38.60,I'm trying ok,,0,0,0,,{\pose(972,1060)}Iels ont juste un rencard.
 Dialogue: 0,0:01:38.70,0:01:39.67,I'm trying ok,,0,0,0,,{\pose(972,1060)}Qui s'en fiche.
 Dialogue: 0,0:01:40.35,0:01:41.01,I'm trying ok,,0,0,0,,{\pose(972,1060)}Allez, Lily
-Dialogue: 0,0:01:41.31,0:01:43.13,I'm trying ok,,0,0,0,,{\pose(972,1060)}Je t'invite à manger au le restaurant du tête-à-tête de Lynn.
+Dialogue: 0,0:01:41.31,0:01:43.13,I'm trying ok,,0,0,0,,{\pose(972,1060)}Je t'invite à manger au restaurant du tête-à-tête de Lynn.
 Dialogue: 0,0:01:43.43,0:01:43.97,I'm trying ok,,0,0,0,,{\pose(972,1060)}Montre le chemin.
 Dialogue: 0,0:01:44.02,0:01:44.64,I'm trying ok,,0,0,0,,{\pose(972,1060)}Ok!
 Dialogue: 0,0:01:44.80,0:01:45.80,I'm trying ok,,0,0,0,,{\pose(972,1060)}Clairement ça te préoccupe.
@@ -74,14 +74,14 @@ Dialogue: 0,0:02:03.56,0:02:04.34,I'm trying ok,,0,0,0,,{\pos(972,200)}C'est vra
 Dialogue: 0,0:02:05.93,0:02:06.93,I'm trying ok,,0,0,0,,{\pose(972,1060)}C'est Jiu Yue!
 Dialogue: 0,0:02:07.31,0:02:08.06,I'm trying ok,,0,0,0,,{\pose(972,1060)}Tu la connais!?
 Dialogue: 0,0:02:09.03,0:02:10.31,I'm trying ok,,0,0,0,,{\pose(972,1060)}On s'est croisé'e's une fois.
-Dialogue: 0,0:02:10.81,0:02:12.64,I'm trying ok,,0,0,0,,{\pose(972,1060)}J'ai jamais pensé que je la reverrai ici.
-Dialogue: 0,0:02:12.93,0:02:14.34,I'm trying ok,,0,0,0,,{\pose(972,1060)}Que le monde est petit.
+Dialogue: 0,0:02:10.81,0:02:12.64,I'm trying ok,,0,0,0,,{\pose(972,1060)}Je ne pensais ne jamais la revoir.
+Dialogue: 0,0:02:12.93,0:02:14.34,I'm trying ok,,0,0,0,,{\pose(972,1060)}Comme le monde est petit.
 Dialogue: 0,0:02:15.00,0:02:15.88,I'm trying ok,,0,0,0,,{\pose(972,1060)}Pour être honnête,
 Dialogue: 0,0:02:16.27,0:02:17.59,I'm trying ok,,0,0,0,,{\pose(972,1060)}je suis une renarde de 200 ans
 Dialogue: 0,0:02:17.59,0:02:19.13,I'm trying ok,,0,0,0,,{\pose(972,1060)}et j'ai très rarement des tête-à-têtes.
 Dialogue: 0,0:02:19.77,0:02:21.84,I'm trying ok,,0,0,0,,{\pose(972,1060)}Je suis prête à rester célibataire pour le restant de mes jours.
 Dialogue: 0,0:02:22.15,0:02:22.97,I'm trying ok,,0,0,0,,{\pose(972,1060)}Comment est-ce possible?
-Dialogue: 0,0:02:23.35,0:02:24.63,I'm trying ok,,0,0,0,,{\pose(972,1060)}Je ne te connais pas depuis longtemps
+Dialogue: 0,0:02:23.35,0:02:24.63,I'm trying ok,,0,0,0,,{\pose(972,1060)}Je ne te connaisque depuis peu
 Dialogue: 0,0:02:25.14,0:02:26.81,I'm trying ok,,0,0,0,,{\pose(972,1060)}mais je suis très heureux d'être avec toi.
 Dialogue: 0,0:02:27.27,0:02:29.31,I'm trying ok,,0,0,0,,{\pose(972,1060)}Vous devez être entourée de personnes qui vous aiment en retour.
 Dialogue: 0,0:02:31.80,0:02:34.42,I'm trying ok,,0,0,0,,{\pose(972,1060)}Ne dites pas ça, ça m'embarasse.
@@ -102,7 +102,7 @@ Dialogue: 0,0:03:08.57,0:03:10.64,I'm trying ok,,0,0,0,,{\pose(972,1060)}En mêm
 Dialogue: 0,0:03:10.91,0:03:12.17,I'm trying ok,,0,0,0,,{\pose(972,1060)}en tant qu'enseignant en anglais et chinois.
 Dialogue: 0,0:03:12.83,0:03:13.81,I'm trying ok,,0,0,0,,{\pose(972,1060)}C'est génial.
 Dialogue: 0,0:03:14.66,0:03:16.63,I'm trying ok,,0,0,0,,{\pose(972,1060)}Pas étonnant que vous parliez si bien les langues étrangères, Lynn.
-Dialogue: 0,0:03:17.16,0:03:18.59,I'm trying ok,,0,0,0,,{\pose(972,1060)}Mes langues étrangères son vraiment mauvaise.
+Dialogue: 0,0:03:17.16,0:03:18.59,I'm trying ok,,0,0,0,,{\pose(972,1060)}Mes langues étrangères son vraiment mauvaises.
 Dialogue: 0,0:03:19.28,0:03:19.71,I'm trying ok,,0,0,0,,{\pose(972,1060)}Oh non.
 Dialogue: 0,0:03:19.85,0:03:20.46,I'm trying ok,,0,0,0,,{\pose(972,1060)}Que dites-vous?
 Dialogue: 0,0:03:20.95,0:03:21.97,I'm trying ok,,0,0,0,,{\pose(972,1060)}Il n'y a pas de mauvais élèves,
