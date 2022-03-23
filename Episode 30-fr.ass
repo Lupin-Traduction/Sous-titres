@@ -46,14 +46,14 @@ Dialogue: 0,0:01:31.00,0:01:31.67,I'm trying ok,,0,0,0,,{\pose(972,1060)}Y'a que
 Dialogue: 0,0:01:33.45,0:01:34.35,I'm trying ok,,0,0,0,,{\pose(972,1060)}Lynn{\i1}-laoshi{\i0}
 Dialogue: 0,0:01:34.65,0:01:35.65,I'm trying ok,,0,0,0,,{\pose(972,1060)}Elle est de retour!
 Dialogue: 0,0:01:37.40,0:01:37.80,I'm trying ok,,0,0,0,,{\pose(972,1060)}Vous-
-Dialogue: 0,0:01:38.78,0:01:39.28,I'm trying ok,,0,0,0,,{\pose(972,1060)}Ne t'approche pas!!!
+Dialogue: 0,0:01:38.78,0:01:39.28,I'm trying ok,,0,0,0,,{\pose(972,1060)}Ne t'approches pas!!!
 Dialogue: 0,0:01:40.00,0:01:41.54,I'm trying ok,,0,0,0,,{\pose(972,1060)}Un pas de plus et j'en fini avec toi.
 Dialogue: 0,0:01:42.18,0:01:42.71,I'm trying ok,,0,0,0,,{\pose(972,1060)}Pourquoi?
 Dialogue: 0,0:01:42.71,0:01:43.30,I'm trying ok,,0,0,0,,{\pose(972,1060)}Recules d'abord.
 Dialogue: 0,0:01:43.97,0:01:44.90,I'm trying ok,,0,0,0,,{\pose(972,1060)}Parlons dehors.
 Dialogue: 0,0:01:45.50,0:01:47.47,I'm trying ok,,0,0,0,,{\pose(972,1060)}Je t'enverrai une facture pour les articles endommagés
 Dialogue: 0,0:01:47.77,0:01:48.80,I'm trying ok,,0,0,0,,{\pose(972,1060)}Enfin, jusqu'à ce que tu arrêtes de boire,
-Dialogue: 0,0:01:48.89,0:01:49.90,I'm trying ok,,0,0,0,,{\pose(972,1060)}ne vas plus au 1031.
+Dialogue: 0,0:01:48.89,0:01:49.90,I'm trying ok,,0,0,0,,{\pose(972,1060)}ne viens plus au 1031.
 Dialogue: 0,0:01:52.45,0:01:52.93,I'm trying ok,,0,0,0,,{\pose(972,1060)}Quoi?
 Dialogue: 0,0:01:53.05,0:01:54.50,I'm trying ok,,0,0,0,,{\pose(972,1060)}J'ai cassé tout ça?
 Dialogue: 0,0:01:58.60,0:01:59.27,I'm trying ok,,0,0,0,,{\pose(972,1060)}Tout d'abord
@@ -91,12 +91,12 @@ Dialogue: 0,0:03:07.03,0:03:08.87,I'm trying ok,,0,0,0,,{\pose(972,1060)}mais c'
 Dialogue: 0,0:03:09.30,0:03:11.20,I'm trying ok,,0,0,0,,{\pose(972,1060)}et j'ai été photographiée et mise en première page.
 Dialogue: 0,0:03:14.58,0:03:15.45,I'm trying ok,,0,0,0,,{\pose(972,1060)}Comment a-t-iel pu te reconnaitre?
 Dialogue: 0,0:03:15.45,0:03:16.75,I'm trying ok,,0,0,0,,{\pose(972,1060)}Lae reporter est tellement doué'e.
-Dialogue: 0,0:03:17.87,0:03:19.20,I'm trying ok,,0,0,0,,{\pose(972,1060)}Après ça, je voulais changer de décor
+Dialogue: 0,0:03:17.87,0:03:19.20,I'm trying ok,,0,0,0,,{\pose(972,1060)}Après ça, je voulais changer de décor,
 Dialogue: 0,0:03:19.37,0:03:20.10,I'm trying ok,,0,0,0,,{\pose(972,1060)}redémarrer.
 Dialogue: 0,0:03:20.90,0:03:21.79,I'm trying ok,,0,0,0,,{\pose(972,1060)}Donc voilà.
 Dialogue: 0,0:03:22.20,0:03:23.67,I'm trying ok,,0,0,0,,{\pose(972,1060)}C'est courageux de repartir de zéro.
 Dialogue: 0,0:03:23.80,0:03:24.75,I'm trying ok,,0,0,0,,{\pose(972,1060)}Allez, Momo,
-Dialogue: 0,0:03:25.10,0:03:26.40,I'm trying ok,,0,0,0,,{\pose(972,1060)}il est possible d'arrêter de boire!
+Dialogue: 0,0:03:25.10,0:03:26.40,I'm trying ok,,0,0,0,,{\pose(972,1060)}tu peux arrêter de boire!
 Dialogue: 0,0:03:27.50,0:03:28.17,I'm trying ok,,0,0,0,,{\pose(972,1060)}Merci.
 Dialogue: 0,0:03:32.95,0:03:34.39,I'm trying ok,,0,0,0,,{\pose(972,1060)}Aller,
 Dialogue: 0,0:03:35.03,0:03:37.31,I'm trying ok,,0,0,0,,{\pose(972,1060)}finissons toute la caisse aujourd'hui.
