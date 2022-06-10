@@ -1,5 +1,5 @@
 # Lupin Traduction
-  Sous-titres par Lupin Traduction. 
+  Sous-titres par Lupin Traduction. <br>
   Subtitles by Lupin Traduction.
 
 # Guideline
