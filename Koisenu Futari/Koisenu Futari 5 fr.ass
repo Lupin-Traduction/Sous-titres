@@ -30,48 +30,48 @@ Style: Default - bottom right,Arial Narrow,80,&H00FFFFFF,&H000000FF,&H00151516,&
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:02.07,0:00:04.01,Default,,0,0,0,,Ne suis-je pas assez bon ?
 Dialogue: 0,0:00:06.00,0:00:08.18,Default,,0,0,0,,On ne s'embrassera pas, on ne fera pas l'amour.
-Dialogue: 0,0:00:08.18,0:00:09.55,Default,,0,0,0,,Je ne toucherai même pas.
-Dialogue: 0,0:00:09.55,0:00:11.48,Default,,0,0,0,,Si je le veux, je le ferai moi-même.
-Dialogue: 0,0:00:11.48,0:00:13.98,Default,,0,0,0,,Donc on ne pourrai pas devenir une famille
-Dialogue: 0,0:00:14.78,0:00:16.69,Default,,0,0,0,,sans sentiments amoureux ?
-Dialogue: 0,0:00:17.63,0:00:19.89,Default,,0,0,0,,Ou as-tu une raison pourquoi\Nça ne peut pas marcher avec moi ?
+Dialogue: 0,0:00:08.18,0:00:09.55,Default,,0,0,0,,Je ne te toucherais pas non plus.
+Dialogue: 0,0:00:09.55,0:00:11.48,Default,,0,0,0,,Si je le veux, je le ferais seul.
+Dialogue: 0,0:00:11.48,0:00:13.98,Default,,0,0,0,,Donc on ne pourrait pas devenir une famille
+Dialogue: 0,0:00:14.78,0:00:16.69,Default,,0,0,0,,sans sentiments amoureux aussi ?
+Dialogue: 0,0:00:17.63,0:00:19.89,Default,,0,0,0,,Ou y a-t-il une raison pour laquelle\Nça ne marcherait pas avec moi ?
 Dialogue: 0,0:00:19.89,0:00:21.03,Default,,0,0,0,,Hé bien...
 Dialogue: 0,0:00:21.03,0:00:23.30,Default,,0,0,0,,Tu vois ? Il n'y en a pas !
 Dialogue: 0,0:00:23.30,0:00:26.13,Default,,0,0,0,,Je te rendrais définitivement heureuse.
-Dialogue: 0,0:00:26.13,0:00:28.04,Default,,0,0,0,,Je pense que c'est notre destin.
+Dialogue: 0,0:00:26.13,0:00:28.04,Default,,0,0,0,,Je pense que c'est notre destinée.
 Dialogue: 0,0:00:28.62,0:00:30.10,Default,,0,0,0,,Destin ?
-Dialogue: 0,0:00:30.10,0:00:33.94,Default,,0,0,0,,Je travaillerai sur moi, donc\Nfait ta décision après ça.
+Dialogue: 0,0:00:30.10,0:00:33.94,Default,,0,0,0,,Je travaillerai sur moi, donc\Nprends ta décision après ça.
 Dialogue: 0,0:00:34.54,0:00:36.84,Default,,0,0,0,,Jusque là, continuons comme d'habitude.
 Dialogue: 0,0:00:38.15,0:00:39.75,Default,,0,0,0,,Takahashi-san?
 Dialogue: 0,0:00:40.46,0:00:41.55,Default,,0,0,0,,Quoi ?
 Dialogue: 0,0:00:41.55,0:00:42.99,Default,,0,0,0,,Depuis combien de temps\Ntu nous écoutes ?
 Dialogue: 0,0:00:42.99,0:00:45.02,Default,,0,0,0,,Depuis que tu as mis ça sur moi.
-Dialogue: 0,0:00:45.02,0:00:46.79,Default,,0,0,0,,T'écoutais aux portes !?
-Dialogue: 0,0:00:47.30,0:00:49.70,Default,,0,0,0,,Ce n'est pas comme si j'écoutais\Nparce que je le voulais.
+Dialogue: 0,0:00:45.02,0:00:46.79,Default,,0,0,0,,Tu écoutais en silence !?
+Dialogue: 0,0:00:47.30,0:00:49.70,Default,,0,0,0,,Ce n'est pas comme si je le faisais par choix.
 Dialogue: 0,0:00:50.33,0:00:53.66,Default,,0,0,0,,Je pense pas que ça soit une mauvaise idée.
 Dialogue: 0,0:00:55.20,0:00:57.52,Default,,0,0,0,,De devenir une famille avec lui.
-Dialogue: 0,0:00:59.41,0:01:03.94,Default,,0,0,0,,Je ne pense pas que je pense à toi ou
-Dialogue: 0,0:01:03.94,0:01:07.14,Default,,0,0,0,,souhaite ton bonheur comme lui le fait.
-Dialogue: 0,0:01:07.95,0:01:10.95,Default,,0,0,0,,C'est quelque chose que tu vas devoir décider.
-Dialogue: 0,0:01:12.62,0:01:14.62,Default,,0,0,0,,S'il-te-plait fait comme tu veux.
+Dialogue: 0,0:00:59.41,0:01:03.94,Default,,0,0,0,,Contrairement à lui, je pense pas forcément
+Dialogue: 0,0:01:03.94,0:01:07.14,Default,,0,0,0,,à toi ou ton bonheur.
+Dialogue: 0,0:01:07.95,0:01:10.95,Default,,0,0,0,,La décision te revient de toute façon.
+Dialogue: 0,0:01:12.62,0:01:14.62,Default,,0,0,0,,Fait comme bon te semble.
 Dialogue: 0,0:01:57.10,0:01:58.63,Default,,0,0,0,,{\i1}Je me sens un peu désolée.
 Dialogue: 0,0:01:58.63,0:02:01.16,Default,,0,0,0,,Pourquoi ?
 Dialogue: 0,0:02:01.16,0:02:03.60,Default,,0,0,0,,Je te l'ai dit avant aussi, non ?
 Dialogue: 0,0:02:03.60,0:02:06.40,Default,,0,0,0,,Que je ne comprend pas vraiment l'amour.
 Dialogue: 0,0:02:09.01,0:02:12.43,Default,,0,0,0,,Ce n'est pas quelque chose qui\Npeut être résolu juste en parlant.
 Dialogue: 0,0:02:12.43,0:02:14.41,Default,,0,0,0,,Ce n'est même pas intéressant.
-Dialogue: 0,0:02:14.94,0:02:17.78,Default,,0,0,0,,Mais je m'épanche toujours auprès\Nde toi à des moments comme ça.
-Dialogue: 0,0:02:17.78,0:02:20.12,Default,,0,0,0,,Je me sens désolée de faire ça.
-Dialogue: 0,0:02:20.12,0:02:22.47,Default,,0,0,0,,Tu peux me parler de ça\Nautant de fois que tu veux.
-Dialogue: 0,0:02:22.47,0:02:26.95,Default,,0,0,0,,Quel est le point d'avoir une amie si\Ntu ne peux pas parler de ce que tu veux?
-Dialogue: 0,0:02:35.56,0:02:36.80,Default,,0,0,0,,Arrête ça !
+Dialogue: 0,0:02:14.94,0:02:17.78,Default,,0,0,0,,Mais je me tourne toujours vers toi pour ce genre de chose.
+Dialogue: 0,0:02:17.78,0:02:20.12,Default,,0,0,0,,Donc je voulais m'excuser de t'imposer ça.
+Dialogue: 0,0:02:20.12,0:02:22.47,Default,,0,0,0,,Tu peux me parler autant que tu veux.
+Dialogue: 0,0:02:22.47,0:02:26.95,Default,,0,0,0,,Quel est l'intérêt d'avoir une amie si\Ntu ne peux pas parler de ce que tu veux?
+Dialogue: 0,0:02:35.56,0:02:36.80,Default,,0,0,0,,Arrêtes ça !
 Dialogue: 0,0:02:36.80,0:02:38.37,Default,,0,0,0,,Désolé, désolé.
-Dialogue: 0,0:02:38.37,0:02:41.29,Default,,0,0,0,,Je voulais garder ce souvenir.
+Dialogue: 0,0:02:38.37,0:02:41.29,Default,,0,0,0,,Je voulais faire une photo souvenir.
 Dialogue: 0,0:02:41.73,0:02:44.14,Default,,0,0,0,,Allez, je vais te couper la frange.
-Dialogue: 0,0:02:44.14,0:02:47.21,Default,,0,0,0,,Non, les couper comme ça serait trop aventureux.
-Dialogue: 0,0:02:47.21,0:02:49.15,Default,,0,0,0,,Alors arrête au moins de prendre des photos.
+Dialogue: 0,0:02:44.14,0:02:47.21,Default,,0,0,0,,Non, ce serait trop risqué de la couper plus que ça.
+Dialogue: 0,0:02:47.21,0:02:49.15,Default,,0,0,0,,Alors arrêtes au moins de prendre des photos.
 Dialogue: 0,0:02:49.15,0:02:49.94,Default,,0,0,0,,Non~
-Dialogue: 0,0:02:49.94,0:02:51.50,Default,,0,0,0,,Arrête ça.
+Dialogue: 0,0:02:49.94,0:02:51.50,Default,,0,0,0,,Arrêtes ça.
 Dialogue: 0,0:02:55.35,0:02:58.72,Default,,0,0,0,,{\pos(783,475.5)\frz356.2}Chizuru
 Dialogue: 0,0:02:55.35,0:02:58.70,Default,,0,0,0,,{\frz354.5\pos(1182,894)}Appel
 Dialogue: 0,0:02:55.35,0:02:58.72,Default,,0,0,0,,{\frz354.5\pos(324,814.5)}Message
@@ -81,20 +81,20 @@ Dialogue: 1,0:03:15.28,0:03:20.45,Default,,0,0,0,,{\an7\blur1.5\bord0\shad0\fscx
 Dialogue: 2,0:03:15.28,0:03:20.45,Default - bottom left,,0,0,0,,{\c&H695D17&\3c&HFFFFFF&\4c&H000000&\pos(173,1029.5)}~ Kaizen Subs ~\N(@KaizenSubs)\N\NTranslation - @GK170502  \NTiming - @CHI159SHORI & @ofcodeskeys\NQC - @ak_hepcat
 Dialogue: 2,0:03:15.28,0:03:20.45,Default - bottom right,,0,0,0,,{\c&H761F3C&\3c&HFFFFFF&\4c&H000000&\3a&H0A&\pos(1737.4,862.4)}# Lupin Traduction #\N(@LupinTrad)\N\NTraduction (en -> fr) - Hrshl \NQC (jp -> fr) - Nim
 Dialogue: 0,0:03:32.45,0:03:34.96,Default,,0,0,0,,{\pos(979.2,883.2)}Donc c'est comme ça ?
-Dialogue: 0,0:03:35.63,0:03:38.13,Default,,0,0,0,,{\pos(950.4,882.3)}Hier tu as dit à Sakuko de faire comme elle le veut
-Dialogue: 0,0:03:38.13,0:03:40.26,Default,,0,0,0,,{\pos(955.2,882.6)}mais en vérité tu es inquiet à ce propos.
+Dialogue: 0,0:03:35.63,0:03:38.13,Default,,0,0,0,,{\pos(950.4,882.3)}Hier tu as dit à Sakuko de faire ce qu'elle voulait
+Dialogue: 0,0:03:38.13,0:03:40.26,Default,,0,0,0,,{\pos(955.2,882.6)}mais en vérité tu es inquiet à son sujet.
 Dialogue: 0,0:03:40.26,0:03:41.06,Default,,0,0,0,,{\pos(979.2,883.2)}Non...
 Dialogue: 0,0:03:41.90,0:03:42.90,Default,,0,0,0,,Je veux dire,
-Dialogue: 0,0:03:42.90,0:03:46.16,Default,,0,0,0,,{\pos(969.6,920.7)}tu la regarde depuis un moment mais tu ne dis rien.
+Dialogue: 0,0:03:42.90,0:03:46.16,Default,,0,0,0,,{\pos(969.6,920.7)}tu la regardes depuis un moment mais tu ne dis rien.
 Dialogue: 0,0:03:46.97,0:03:49.04,Default,,0,0,0,,{\pos(979.2,938.7)}Fin bon, je suis content.
-Dialogue: 0,0:03:49.04,0:03:52.14,Default,,0,0,0,,{\pos(979.2,938.7)}Parce que tu me considère sérieusement.
+Dialogue: 0,0:03:49.04,0:03:52.14,Default,,0,0,0,,{\pos(979.2,938.7)}Parce que tu me considères sérieusement.
 Dialogue: 0,0:03:53.07,0:03:57.15,Default,,0,0,0,,{\pos(979.2,938.7)}Je pense à ça aussi, mais...
 Dialogue: 0,0:03:57.71,0:04:00.59,Default,,0,0,0,,{\pos(1005.6,938.1)}maintenant ma tête est pleine d'autre chose.
 Dialogue: 0,0:04:00.59,0:04:02.58,Default,,0,0,0,,Et qu'est-ce que c'est ?
 Dialogue: 0,0:04:12.23,0:04:13.80,Default,,0,0,0,,Chizuru.
 Dialogue: 0,0:04:14.34,0:04:15.90,Default,,0,0,0,,Chizuru?
 Dialogue: 0,0:04:16.40,0:04:20.53,Default,,0,0,0,,L'amie avec qui t'étais censée vivre ?
-Dialogue: 0,0:04:21.77,0:04:23.90,Default,,0,0,0,,Quand je l'ai appelée hier,
+Dialogue: 0,0:04:21.77,0:04:23.90,Default,,0,0,0,,Quand je l'ai appelé hier,
 Dialogue: 0,0:04:23.90,0:04:27.24,Default,,0,0,0,,ça disait que le numéro était hors service.
 Dialogue: 0,0:04:28.11,0:04:31.42,Default,,0,0,0,,Donc je me suis inquiétée et\Nje suis allée au salon auquel elle travaille.
 Dialogue: 0,0:04:31.42,0:04:33.19,Default,,0,0,0,,Le manager m'a vu et...
@@ -105,15 +105,14 @@ Dialogue: 0,0:04:47.63,0:04:50.56,Default,,0,0,0,,Je suis retournée avec mon ex
 Dialogue: 0,0:04:53.53,0:04:56.10,Default,,0,0,0,,Elle a dit qu'elle voulait vivre avec son petit ami.
 Dialogue: 0,0:04:56.10,0:04:58.81,Default,,0,0,0,,Mais déménager comme ça sans rien dire...
 Dialogue: 0,0:04:59.31,0:05:03.24,Default,,0,0,0,,As-tu vraiment besoin d'être inquiète à son propos ?
-Dialogue: 0,0:05:04.65,0:05:06.71,Default,,0,0,0,,N'aimerais-tu pas non plus si quelqu'un dont
-Dialogue: 0,0:05:06.71,0:05:08.75,Default,,0,0,0,,tu voulais t'éloigner te suives, hein?
+Dialogue: 0,0:05:04.65,0:05:08.75,Default,,0,0,0,,Tu n'aimerais pas que quelqu'un dont tu ne veux plus avoir de contact te suive, non ?
 Dialogue: 0,0:05:10.27,0:05:13.50,Default,,0,0,0,,C'est...
 Dialogue: 0,0:05:13.50,0:05:15.50,Default,,0,0,0,,vrai.
 Dialogue: 0,0:05:16.63,0:05:18.04,Default,,0,0,0,,Non, non, non, non.
-Dialogue: 0,0:05:18.04,0:05:19.94,Default,,0,0,0,,Ce n'est pas comme ça !
-Dialogue: 0,0:05:19.94,0:05:23.17,Default,,0,0,0,,Tu te sens mal parce que tu n'as pas trouvé ça convainquant, hein?
-Dialogue: 0,0:05:23.17,0:05:24.90,Default,,0,0,0,,Elle est une précieuse amie, non?
-Dialogue: 0,0:05:24.90,0:05:27.14,Default,,0,0,0,,Et tu sais où elle travaille, non?
+Dialogue: 0,0:05:18.04,0:05:19.94,Default,,0,0,0,,Ce n'est pas ok !
+Dialogue: 0,0:05:19.94,0:05:23.17,Default,,0,0,0,,Tu te sens mal parce que tu n'as pas pu prendre contact, non ?
+Dialogue: 0,0:05:23.17,0:05:24.90,Default,,0,0,0,,Elle est une précieuse amie, n'est-ce pas ?
+Dialogue: 0,0:05:24.90,0:05:27.14,Default,,0,0,0,,Et tu sais où elle travaille, non ?
 Dialogue: 0,0:05:27.64,0:05:29.90,Default,,0,0,0,,Alors tu devrais la rencontrer et lui parler.
 Dialogue: 0,0:05:30.61,0:05:34.86,Default,,0,0,0,,Et si elle refuse de discuter ?
 Dialogue: 0,0:05:34.86,0:05:38.35,Default,,0,0,0,,On verra ça quand on y sera !
@@ -122,21 +121,21 @@ Dialogue: 0,0:05:41.27,0:05:44.79,Default,,0,0,0,,Si ça arrive, je la consolera
 Dialogue: 0,0:05:44.79,0:05:46.93,Default,,0,0,0,,C'est pas une solution.
 Dialogue: 0,0:05:46.93,0:05:48.10,Default,,0,0,0,,T'es tellement méchant !
 Dialogue: 0,0:05:48.10,0:05:49.96,Default,,0,0,0,,Mais tu as raison.
-Dialogue: 0,0:05:49.96,0:05:53.03,Default,,0,0,0,,Aller et rencontrer quelqu'un\Nqui apparemment ne le veut pas...
+Dialogue: 0,0:05:49.96,0:05:53.03,Default,,0,0,0,,Aller et rencontrer une personne qui ne veut peut-être pas te voir...
 Dialogue: 0,0:05:54.26,0:05:56.16,Default,,0,0,0,,Merci.
 Dialogue: 0,0:05:56.16,0:05:57.88,Default,,0,0,0,,Merci pour ce repas.
 Dialogue: 0,0:05:57.88,0:06:00.14,Default,,0,0,0,,Je vais me laver.
-Dialogue: 0,0:06:07.08,0:06:10.04,Default,,0,0,0,,Elle va définitivement bouder maintenant.
+Dialogue: 0,0:06:07.08,0:06:10.04,Default,,0,0,0,,Elle va définitivement aller se morfondre.
 Dialogue: 0,0:06:10.64,0:06:12.51,Default,,0,0,0,,Même si tu dis ça...
 Dialogue: 0,0:06:12.91,0:06:14.95,Default,,0,0,0,,Tu es inquiet à ce propos, non ?
-Dialogue: 0,0:06:14.95,0:06:17.26,Default,,0,0,0,,Mais je devrais pas être trop intrusif.
+Dialogue: 0,0:06:14.95,0:06:17.26,Default,,0,0,0,,Mais je ne devrais pas trop m'imposer...
 Dialogue: 0,0:06:17.26,0:06:19.82,Default,,0,0,0,,"Famille (sous réserve de modification)..."
 Dialogue: 0,0:06:19.82,0:06:22.00,Default,,0,0,0,,me semble plutôt froid.
 Dialogue: 0,0:06:33.22,0:06:35.51,Default,,0,0,0,,Sakuko...
 Dialogue: 0,0:06:37.75,0:06:41.14,Default,,0,0,0,,{\i1}Chizuru-chan a été transférée dans la branche d'Odawara.
 Dialogue: 0,0:06:48.14,0:06:49.08,Default,,0,0,0,,Oui ?
 Dialogue: 0,0:06:49.08,0:06:51.29,Default,,0,0,0,,Tu as un moment ?
-Dialogue: 0,0:06:51.29,0:06:52.99,Default,,0,0,0,,Oui, rentres s'il-te-plait.
+Dialogue: 0,0:06:51.29,0:06:52.99,Default,,0,0,0,,Oui, tu peux rentrer.
 Dialogue: 0,0:06:59.43,0:07:01.58,Default,,0,0,0,,Il y a eu quelque chose ?
 Dialogue: 0,0:07:01.58,0:07:06.04,Default,,0,0,0,,Grâce à toi, mon dos est beaucoup mieux maintenant.
 Dialogue: 0,0:07:06.04,0:07:08.91,Default,,0,0,0,,J'en suis contente, tu as l'air d'être mieux.
@@ -149,14 +148,14 @@ Dialogue: 0,0:07:24.09,0:07:27.96,Default,,0,0,0,,devrions-nous aller quelque pa
 Dialogue: 0,0:07:28.40,0:07:30.62,Default,,0,0,0,,Ça m'a l'air bien.\NOù devrait-on aller ?
 Dialogue: 0,0:07:31.12,0:07:33.59,Default,,0,0,0,,Pourquoi pas Odawara ?
 Dialogue: 0,0:07:38.10,0:07:41.80,Default,,0,0,0,,Désolé, je suis trop indiscret.
-Dialogue: 0,0:07:43.91,0:07:49.94,Default,,0,0,0,,Mais, et si tu y allais et regarde juste pour une fois ?
-Dialogue: 0,0:07:51.22,0:07:54.29,Default,,0,0,0,,Ou pour rencontrer Chizuru-san,
-Dialogue: 0,0:07:54.29,0:07:57.49,Default,,0,0,0,,et si tu décidais de ça à ce moment ?
-Dialogue: 0,0:08:01.35,0:08:03.89,Default,,0,0,0,,S'il-te-plait, penses-y.
+Dialogue: 0,0:07:43.91,0:07:49.94,Default,,0,0,0,,Mais, et si tu essayais d'aller voir ?
+Dialogue: 0,0:07:51.22,0:07:54.29,Default,,0,0,0,,et rencontrer Chizuru-san au moins une fois,
+Dialogue: 0,0:07:54.29,0:07:57.49,Default,,0,0,0,,pour ensuite prendre ta décision à ce moment-là ?
+Dialogue: 0,0:08:01.35,0:08:03.89,Default,,0,0,0,,Essayes d'y réfléchir.
 Dialogue: 0,0:08:05.73,0:08:07.19,Default,,0,0,0,,Takahashi-san.
 Dialogue: 0,0:08:09.33,0:08:10.83,Default,,0,0,0,,Merci.
 Dialogue: 0,0:08:10.83,0:08:12.20,Default,,0,0,0,,Non...
-Dialogue: 0,0:08:13.07,0:08:15.84,Default,,0,0,0,,je n'aurais pas pu penser à\Nquelque chose du genre
+Dialogue: 0,0:08:13.07,0:08:15.84,Default,,0,0,0,,je n'aurais jamais songé à quelque chose du genre
 Dialogue: 0,0:08:15.84,0:08:18.10,Default,,0,0,0,,si ce n'était pour ce que Kazu-kun-san a dit.
 Dialogue: 0,0:08:18.10,0:08:19.72,Default,,0,0,0,,Kazu-kun-san?
 Dialogue: 0,0:08:26.35,0:08:26.91,Default,,0,0,0,,[ODAWARA]
@@ -167,10 +166,10 @@ Dialogue: 0,0:08:31.09,0:08:33.46,Default,,0,0,0,,On ne peut pas rater le anpan 
 Dialogue: 0,0:08:31.10,0:08:33.46,Default,,0,0,0,,{\fs52.5\pos(986.4,80.7)}Anpan - Pain de pâte d'haricot rouge
 Dialogue: 0,0:08:33.46,0:08:35.12,Default,,0,0,0,,Qu'elle quantité comptes-tu manger ?
 Dialogue: 0,0:08:35.12,0:08:36.17,Default,,0,0,0,,Ce n'est pas bon?
-Dialogue: 0,0:08:36.17,0:08:37.96,Default,,0,0,0,,On y va finalement !
+Dialogue: 0,0:08:36.17,0:08:37.96,Default,,0,0,0,,On y va alors !
 Dialogue: 0,0:08:37.96,0:08:40.66,Default,,0,0,0,,Et c'est aussi une manière de me remercier, non ?
 Dialogue: 0,0:08:41.38,0:08:43.23,Default,,0,0,0,,Takahashi-san, qu'est-ce que tu aimes le plus ?
-Dialogue: 0,0:08:43.23,0:08:44.77,Default,,0,0,0,,Je manger du Kababoko.
+Dialogue: 0,0:08:43.23,0:08:44.77,Default,,0,0,0,,Du Kababoko.
 Dialogue: 0,0:08:44.77,0:08:45.62,Default,,0,0,0,,Kababoko?
 Dialogue: 0,0:08:45.62,0:08:46.22,Default,,0,0,0,,Oui.
 Dialogue: 0,0:08:48.41,0:08:50.94,Default,,0,0,0,,Et pourquoi pas faire une expérience Kababoko-Chikuwa ?
@@ -185,15 +184,15 @@ Dialogue: 0,0:09:12.13,0:09:15.94,Default,,0,0,0,,Dans le train tu regardais la 
 Dialogue: 0,0:09:15.94,0:09:18.90,Default,,0,0,0,,Mon cœur a presque raté un battement tu sais.
 Dialogue: 0,0:09:20.02,0:09:22.07,Default,,0,0,0,,C'est drôle quand tu prends le train après aussi longtemps.
 Dialogue: 0,0:09:22.07,0:09:23.30,Default,,0,0,0,,Oui.
-Dialogue: 0,0:09:23.30,0:09:26.17,Default,,0,0,0,,Je ne suis allée nul part depuis les sorties scolaires.
-Dialogue: 0,0:09:26.33,0:09:27.90,Default,,0,0,0,,Sortie scolaire !?
+Dialogue: 0,0:09:23.30,0:09:26.17,Default,,0,0,0,,Je ne suis allé nulle part depuis les sorties scolaires.
+Dialogue: 0,0:09:26.33,0:09:27.90,Default,,0,0,0,,Sorties scolaires !?
 Dialogue: 0,0:09:27.90,0:09:29.82,Default,,0,0,0,,C'est vraiment aussi choquant ?
-Dialogue: 0,0:09:30.80,0:09:32.60,Default,,0,0,0,,Après le dos de ma grand-mère a commencé à faire mal,
+Dialogue: 0,0:09:30.80,0:09:32.60,Default,,0,0,0,,Après que le dos de ma grand-mère a commencé à lui faire mal,
 Dialogue: 0,0:09:32.60,0:09:35.00,Default,,0,0,0,,on n'avait plus d'opportunité pour sortir.
 Dialogue: 0,0:09:35.00,0:09:36.96,Default,,0,0,0,,Sakuko-san, tu aimes partir en voyage ?
-Dialogue: 0,0:09:36.96,0:09:40.09,Default,,0,0,0,,J'allais dans une source chaude avec ma famille tout les ans.
+Dialogue: 0,0:09:36.96,0:09:40.09,Default,,0,0,0,,J'allais dans une source chaude avec ma famille tous les ans.
 Dialogue: 0,0:09:40.09,0:09:42.46,Default,,0,0,0,,Source chaude ? Ça a l'air bien !
-Dialogue: 0,0:09:42.46,0:09:43.96,Default,,0,0,0,,Devrions-nous aller dans un aujourd'hui ?
+Dialogue: 0,0:09:42.46,0:09:43.96,Default,,0,0,0,,Devrions-nous aller dans une aujourd'hui ?
 Dialogue: 0,0:09:43.96,0:09:46.13,Default,,0,0,0,,Dans ce cas, s'il-vous-plait, juste vous deux.
 Dialogue: 0,0:09:46.13,0:09:47.13,Default,,0,0,0,,Je...
 Dialogue: 0,0:09:48.33,0:09:50.36,Default,,0,0,0,,je m'en passerais.
@@ -201,7 +200,7 @@ Dialogue: 0,0:09:50.36,0:09:52.30,Default,,0,0,0,,Bien.
 Dialogue: 0,0:09:53.23,0:09:56.01,Default,,0,0,0,,Regardez ! Château, château !
 Dialogue: 0,0:09:56.01,0:09:57.00,Default,,0,0,0,,Oui, c'est le château.
 Dialogue: 0,0:09:57.00,0:09:58.51,Default,,0,0,0,,Allez, allons-y !
-Dialogue: 0,0:09:58.51,0:10:00.01,Default,,0,0,0,,C'est l'heure pour une bataille !
+Dialogue: 0,0:09:58.51,0:10:00.01,Default,,0,0,0,,Allons-y !
 Dialogue: 0,0:10:01.01,0:10:03.31,Default,,0,0,0,,Kazu-kun-san est une bonne personne.
 Dialogue: 0,0:10:03.94,0:10:05.61,Default,,0,0,0,,Oui, vraiment.
 Dialogue: 0,0:10:06.81,0:10:09.02,Default,,0,0,0,,J'ai l'impression qu'il correspond à ton...
@@ -212,7 +211,7 @@ Dialogue: 0,0:10:15.63,0:10:18.26,Default,,0,0,0,,{\i1}C'est chaud !
 Dialogue: 0,0:10:18.26,0:10:19.36,Default,,0,0,0,,Ça va ?
 Dialogue: 0,0:10:19.36,0:10:20.09,Default,,0,0,0,,Merci.
 Dialogue: 0,0:10:20.09,0:10:22.43,Default,,0,0,0,,Voici un Latte Hojicha pour toi,\Ntu aimes ça n'est-ce pas?
-Dialogue: 0,0:10:22.43,0:10:23.30,Default,,0,0,0,,OPui.
+Dialogue: 0,0:10:22.43,0:10:23.30,Default,,0,0,0,,Oui.
 Dialogue: 0,0:10:23.30,0:10:24.16,Default,,0,0,0,,Takahashi-san, tiens.
 Dialogue: 0,0:10:24.16,0:10:26.13,Default,,0,0,0,,Merci.
 Dialogue: 0,0:10:27.47,0:10:29.44,Default,,0,0,0,,On devrait monter au château après ça ?
@@ -222,7 +221,7 @@ Dialogue: 0,0:10:34.81,0:10:37.31,Default,,0,0,0,,C'est parce que je suis en tra
 Dialogue: 0,0:10:37.31,0:10:39.69,Default,,0,0,0,,Aussi je suis vraiment joyeux.
 Dialogue: 0,0:10:41.52,0:10:43.99,Default,,0,0,0,,Tu contactais Chizuru parce que
 Dialogue: 0,0:10:43.99,0:10:45.92,Default,,0,0,0,,tu voulais lui parler de moi, hein ?
-Dialogue: 0,0:10:45.92,0:10:47.92,Default,,0,0,0,,Ton timing était comme ça.
+Dialogue: 0,0:10:45.92,0:10:47.92,Default,,0,0,0,,Vu le timing.
 Dialogue: 0,0:10:48.66,0:10:50.60,Default,,0,0,0,,Heh bien, oui.
 Dialogue: 0,0:10:50.60,0:10:52.46,Default,,0,0,0,,Si tu es aussi confuse à ce propos,
 Dialogue: 0,0:10:52.46,0:10:54.36,Default,,0,0,0,,ça veut dire que tu es en train de le considérer.
@@ -242,18 +241,18 @@ Dialogue: 0,0:11:51.71,0:11:55.52,Default,,0,0,0,,Super bon !
 Dialogue: 0,0:11:59.06,0:12:01.34,Default,,0,0,0,,Je me demande si Sakuko va bien.
 Dialogue: 0,0:12:01.78,0:12:04.12,Default,,0,0,0,,Elle nous a demandé d'y aller et manger mais...
 Dialogue: 0,0:12:06.94,0:12:09.03,Default,,0,0,0,,On devrait aller manger où après ça ?
-Dialogue: 0,0:12:09.34,0:12:11.43,Default,,0,0,0,,On va se balader seuls tout les deux ?
+Dialogue: 0,0:12:09.34,0:12:11.43,Default,,0,0,0,,On va se balader seuls tous les deux ?
 Dialogue: 0,0:12:11.67,0:12:14.14,Default,,0,0,0,,Je veux dire, tu n'as pas fait de sortie depuis l'école, non ?
 Dialogue: 0,0:12:14.14,0:12:16.42,Default,,0,0,0,,Donc je veux que tu t'amuses.
-Dialogue: 0,0:12:21.11,0:12:23.37,Default,,0,0,0,,Étais-tu touché par ma gentillesse juste là ?
+Dialogue: 0,0:12:21.11,0:12:23.37,Default,,0,0,0,,Ma gentillesse vient-elle de te toucher ?
 Dialogue: 0,0:12:23.37,0:12:27.77,Default,,0,0,0,,Je suis jaloux d'à quel point notre façon de \Nréfléchir et nos points de vue sont différents.
 Dialogue: 0,0:12:28.15,0:12:29.98,Default,,0,0,0,,Vraiment ?
-Dialogue: 0,0:12:31.45,0:12:34.59,Default,,0,0,0,,Hé bien, il ne peut y avoir personne\Nde plus attentionnée que moi.
-Dialogue: 0,0:12:41.85,0:12:43.03,Default,,0,0,0,,Heu...
+Dialogue: 0,0:12:31.45,0:12:34.59,Default,,0,0,0,,Hé bien, il ne peut y avoir personne\Nde plus attentionné que moi.
+Dialogue: 0,0:12:41.85,0:12:43.03,Default,,0,0,0,,Hm hm...
 Dialogue: 0,0:12:44.46,0:12:47.20,Default,,0,0,0,,Si Sakuko et moi devenons une famille,
-Dialogue: 0,0:12:48.07,0:12:50.66,Default,,0,0,0,,on pourrait partager ta maison ?
+Dialogue: 0,0:12:48.07,0:12:50.66,Default,,0,0,0,,est-ce que Sakuko pourra partir ?
 Dialogue: 0,0:12:52.33,0:12:56.32,Default,,0,0,0,,J'aime la façon dont on vit en ce moment.
-Dialogue: 0,0:12:58.52,0:13:01.95,Default,,0,0,0,,C'est pour ça- je serais solitaire.
+Dialogue: 0,0:12:58.52,0:13:01.95,Default,,0,0,0,,Parce que autrement... je serais bien seul.
 Dialogue: 0,0:13:04.16,0:13:07.13,Default,,0,0,0,,Tu lui a dit ça directement ?
 Dialogue: 0,0:13:07.13,0:13:10.68,Default,,0,0,0,,De quel côté es-tu ?
 Dialogue: 0,0:13:11.13,0:13:14.20,Default,,0,0,0,,Je veux juste que tout soit juste.
@@ -264,9 +263,9 @@ Dialogue: 0,0:13:24.64,0:13:26.80,Default,,0,0,0,,Alors,
 Dialogue: 0,0:13:26.80,0:13:30.19,Default,,0,0,0,,est-ce que je peux aussi te poser une question ?
 Dialogue: 0,0:13:30.19,0:13:31.51,Default,,0,0,0,,Oui.
 Dialogue: 0,0:13:35.06,0:13:41.86,Default,,0,0,0,,Qu'est-ce que tu pense que\Nça sera de devenir une famille
-Dialogue: 0,0:13:41.86,0:13:44.09,Default,,0,0,0,,sans sentiments romantique ?
+Dialogue: 0,0:13:41.86,0:13:44.09,Default,,0,0,0,,sans sentiments romantiques ?
 Dialogue: 0,0:13:53.49,0:13:57.20,Default,,0,0,0,,Heu...
-Dialogue: 0,0:13:58.19,0:14:00.29,Default,,0,0,0,,Ça...
+Dialogue: 0,0:13:58.19,0:14:00.29,Default,,0,0,0,,Est-ce que...
 Dialogue: 0,0:14:01.46,0:14:04.47,Default,,0,0,0,,Quelque chose s'est passé entre ton petit ami et toi ?
 Dialogue: 0,0:14:06.61,0:14:08.79,Default,,0,0,0,,Je n'ai pas de petit ami.
 Dialogue: 0,0:14:13.41,0:14:16.91,Default,,0,0,0,,Tu as dit que tu allais vivre avec ton ex ?
@@ -277,8 +276,8 @@ Dialogue: 0,0:14:30.79,0:14:35.39,Default,,0,0,0,,j'ai dû faire quelque chose
 Dialogue: 0,0:14:35.70,0:14:38.10,Default,,0,0,0,,qui t'as fait me détester.
 Dialogue: 0,0:14:39.20,0:14:41.10,Default,,0,0,0,,C'est le contraire.
 Dialogue: 0,0:14:46.89,0:14:49.60,Default,,0,0,0,,Je me suis éloignée de toi parce que je t'aime.
-Dialogue: 0,0:15:01.26,0:15:06.49,Default,,0,0,0,,Pour moi, tu es
-Dialogue: 0,0:15:10.18,0:15:14.21,Default,,0,0,0,,quelqu'un qui me fait me sentir\Nmieux juste en étant moi.
+Dialogue: 0,0:15:01.26,0:15:06.49,Default,,0,0,0,,Pour moi, Sakuko...
+Dialogue: 0,0:15:10.18,0:15:14.21,Default,,0,0,0,,juste en étant à mes côtés, tu me fais me sentir mieux.
 Dialogue: 0,0:15:14.21,0:15:15.87,Default,,0,0,0,,Tu es la meilleure.
 Dialogue: 0,0:15:16.19,0:15:18.09,Default,,0,0,0,,C'est pareil pour moi.
 Dialogue: 0,0:15:20.66,0:15:22.35,Default,,0,0,0,,C'est différent.
@@ -286,10 +285,10 @@ Dialogue: 0,0:15:28.33,0:15:30.97,Default,,0,0,0,,Quand je suis allée visiter l
 Dialogue: 0,0:15:32.36,0:15:35.09,Default,,0,0,0,,et que je t'ai serré dans mes bras,
 Dialogue: 0,0:15:35.75,0:15:37.74,Default,,0,0,0,,j'ai réalisé quelque chose...
 Dialogue: 0,0:15:41.84,0:15:45.80,Default,,0,0,0,,que je t'aimais.
-Dialogue: 0,0:15:50.18,0:15:52.96,Default,,0,0,0,,Tu comprend ce que je veux dire ?
+Dialogue: 0,0:15:50.18,0:15:52.96,Default,,0,0,0,,Tu comprends ce que je veux dire ?
 Dialogue: 0,0:15:52.96,0:15:55.08,Default,,0,0,0,,Dans le sens romantique.
 Dialogue: 0,0:15:57.91,0:16:01.40,Default,,0,0,0,,Je savais que tu n'avais aucun intérêt dans la romance.
-Dialogue: 0,0:16:02.37,0:16:05.81,Default,,0,0,0,,Don j'ai pensé que ça n'aurait pas\N d'importance si on vivait ensemble.
+Dialogue: 0,0:16:02.37,0:16:05.81,Default,,0,0,0,,Donc j'ai pensé que ça n'aurait pas\N d'importance si on vivait ensemble.
 Dialogue: 0,0:16:06.92,0:16:08.74,Default,,0,0,0,,Mais...
 Dialogue: 0,0:16:10.93,0:16:14.00,Default,,0,0,0,,Mais vivre ensemble avec toi
 Dialogue: 0,0:16:16.38,0:16:19.50,Default,,0,0,0,,en cachant quelque chose dans mon cœur que tu ne veux pas...
@@ -312,21 +311,21 @@ Dialogue: 0,0:17:44.07,0:17:47.10,Default,,0,0,0,,on ne peut pas devenir amies �
 Dialogue: 0,0:17:47.10,0:17:50.11,Default,,0,0,0,,Tu m'es vraiment précieuse.
 Dialogue: 0,0:17:50.27,0:17:52.40,Default,,0,0,0,,Désolé.
 Dialogue: 0,0:17:53.12,0:17:56.08,Default,,0,0,0,,On ne peut pas retourner comme c'était avant.
-Dialogue: 0,0:17:57.35,0:18:01.40,Default,,0,0,0,,Maintenant, je suis vraiment jalouse de cette personne\Navec qui tu essaye de devenir une famille.
-Dialogue: 0,0:18:01.40,0:18:03.99,Default,,0,0,0,,Des sentiments désagréables m'entourent.
-Dialogue: 0,0:18:05.80,0:18:12.19,Default,,0,0,0,,Malgré être avec toi,\Nje ne peux plus rigoler.
+Dialogue: 0,0:17:57.35,0:18:01.40,Default,,0,0,0,,Maintenant, je suis vraiment jalouse de cette personne\Navec qui tu essayes de devenir une famille.
+Dialogue: 0,0:18:01.40,0:18:03.99,Default,,0,0,0,,Des sentiments désagréables me viennent à l'esprit.
+Dialogue: 0,0:18:05.80,0:18:12.19,Default,,0,0,0,,Même si je suis avec toi,\Nje ne peux plus rigoler.
 Dialogue: 0,0:18:16.58,0:18:22.21,Default,,0,0,0,,J'ai essayé désespérément de t'oublier chaque jours.
 Dialogue: 0,0:18:28.42,0:18:30.50,Default,,0,0,0,,Mais...
 Dialogue: 0,0:18:33.40,0:18:35.50,Default,,0,0,0,,Mais tu sais,
 Dialogue: 0,0:18:38.10,0:18:41.45,Default,,0,0,0,,si un jour je suis capable de trier ces sentiments,
-Dialogue: 0,0:18:43.55,0:18:45.93,Default,,0,0,0,,j'aimerais tu couper les cheveux...
-Dialogue: 0,0:18:45.93,0:18:47.49,Default,,0,0,0,,Arrête !
-Dialogue: 0,0:18:48.26,0:18:50.21,Default,,0,0,0,,Coupe-les de nouveau.
-Dialogue: 0,0:18:54.45,0:18:59.44,Default,,0,0,0,,J'aime bien quand tu me coupe les cheveux.
-Dialogue: 0,0:19:00.38,0:19:04.94,Default,,0,0,0,,J'avais compris donc n'utilise plus les mots "j'aime bien".
+Dialogue: 0,0:18:43.55,0:18:45.93,Default,,0,0,0,,j'aimerais te couper les cheveux à nouveau...
+Dialogue: 0,0:18:45.93,0:18:47.49,Default,,0,0,0,,Arrêtes !
+Dialogue: 0,0:18:48.26,0:18:50.21,Default,,0,0,0,,Coupes-les de nouveau.
+Dialogue: 0,0:18:54.45,0:18:59.44,Default,,0,0,0,,J'aime bien quand tu me coupes les cheveux.
+Dialogue: 0,0:19:00.38,0:19:04.94,Default,,0,0,0,,J'ai compris, alors n'utilises plus le mot "aimer".
 Dialogue: 0,0:19:06.72,0:19:08.68,Default,,0,0,0,,S'il-te-plait.
 Dialogue: 0,0:19:35.58,0:19:38.06,Default,,0,0,0,,Comment as-tu devinée qu'on serait là ?
-Dialogue: 0,0:19:38.06,0:19:40.79,Default,,0,0,0,,Kazu-kun m'envoyait des messages constant.
+Dialogue: 0,0:19:38.06,0:19:40.79,Default,,0,0,0,,Kazu-kun m'envoyait des messages constamment.
 Dialogue: 0,0:19:41.93,0:19:43.20,Default,,0,0,0,,Où est-il ?
 Dialogue: 0,0:19:43.20,0:19:45.59,Default,,0,0,0,,Il est parti au magasin de souvenirs.
 Dialogue: 0,0:19:46.58,0:19:48.69,Default,,0,0,0,,Tu ne voulais rien ?
@@ -342,7 +341,7 @@ Dialogue: 0,0:20:30.50,0:20:33.30,Default,,0,0,0,,j'aimerais comprendre ça auss
 Dialogue: 0,0:20:34.19,0:20:38.01,Default,,0,0,0,,Mais quoi qu'ils me disent, je ne peux pas le ressentir.
 Dialogue: 0,0:20:38.01,0:20:40.40,Default,,0,0,0,,Je ne peux rien faire.
 Dialogue: 0,0:20:46.80,0:20:54.10,Default,,0,0,0,,Kazu-kun a essayé de te comprendre récemment.
-Dialogue: 0,0:20:57.05,0:21:05.86,Default,,0,0,0,,Plus tôt il a dit qu'il voulais en savoir plus\N sur les personnes comme nous.
+Dialogue: 0,0:20:57.05,0:21:05.86,Default,,0,0,0,,Plus tôt il a dit qu'il voulait en savoir plus\N sur les personnes comme nous.
 Dialogue: 0,0:21:05.86,0:21:09.78,Default,,0,0,0,,Donc je lui ai donnée des livres et \Nd'autres matériels pour étudier.
 Dialogue: 0,0:21:10.26,0:21:12.39,Default,,0,0,0,,Et quand il a rempli ce livre
 Dialogue: 0,0:21:12.95,0:21:17.29,Default,,0,0,0,,avec des post-its comme s'il s'agissait d'un guide,
@@ -351,23 +350,23 @@ Dialogue: 0,0:21:25.55,0:21:29.45,Default,,0,0,0,,Oui, OK ! D'accord !
 Dialogue: 0,0:21:32.63,0:21:36.42,Default,,0,0,0,,C'est ma réponse pour ce que tu m'as demandé avant à propos d'être
 Dialogue: 0,0:21:36.42,0:21:38.13,Default,,0,0,0,,une famille sans sentiments romantiques.
 Dialogue: 0,0:21:38.13,0:21:40.13,Default,,0,0,0,,Ah, oui.
-Dialogue: 0,0:21:41.00,0:21:47.40,Default,,0,0,0,,Peut-être c'est quelque chose comme "être un lieu où quelqu'un peut y retourner".
+Dialogue: 0,0:21:41.00,0:21:47.40,Default,,0,0,0,,Peut-être c'est quelque chose comme "être un lieu où quelqu'un peut revenir".
 Dialogue: 0,0:21:54.16,0:21:57.01,Default,,0,0,0,,{\i1}J'ai pensé que c'était une bonne réponse.
 Dialogue: 0,0:21:59.10,0:22:04.88,Default,,0,0,0,,Ça pourrait être similaire de ton idée de famille.
 Dialogue: 0,0:22:16.65,0:22:18.50,Default,,0,0,0,,Takahashi-san.
 Dialogue: 0,0:22:24.33,0:22:26.86,Default,,0,0,0,,Où est Takahashi-san ?
 Dialogue: 0,0:22:27.80,0:22:28.85,Default,,0,0,0,,Il est retourné à la maison.
 Dialogue: 0,0:22:31.06,0:22:33.19,Default,,0,0,0,,Je le lui ai demandé.
-Dialogue: 0,0:22:33.94,0:22:36.06,Default,,0,0,0,,Je voulais parler de nous.
+Dialogue: 0,0:22:33.94,0:22:36.06,Default,,0,0,0,,Je voulais te parler.
 Dialogue: 0,0:22:40.33,0:22:42.51,Default,,0,0,0,,Alors allons-y.
-Dialogue: 0,0:22:44.50,0:22:47.16,Default,,0,0,0,,N'ouvre pas encore tes yeux.
+Dialogue: 0,0:22:44.50,0:22:47.16,Default,,0,0,0,,N'ouvres pas encore tes yeux.
 Dialogue: 0,0:22:48.02,0:22:52.01,Default,,0,0,0,,Pas encore, pas encore, OK !
 Dialogue: 0,0:22:53.58,0:22:56.44,Default,,0,0,0,,Wow!
 Dialogue: 0,0:22:58.98,0:23:00.63,Default,,0,0,0,,Tiens.
 Dialogue: 0,0:23:00.90,0:23:02.47,Default,,0,0,0,,Qu'est-ce que c'est ?
 Dialogue: 0,0:23:03.09,0:23:05.36,Default,,0,0,0,,Tu avais l'air de vouloir aller dans une source chaude.
 Dialogue: 0,0:23:06.05,0:23:07.63,Default,,0,0,0,,Donc tu as acheté ça ?
-Dialogue: 0,0:23:09.47,0:23:12.87,Default,,0,0,0,,Tu as dit que tu allais dans une\Nsource chaude avec ta famille tout les ans.
+Dialogue: 0,0:23:09.47,0:23:12.87,Default,,0,0,0,,Tu as dit que tu allais dans une\Nsource chaude avec ta famille tous les ans.
 Dialogue: 0,0:23:12.87,0:23:15.49,Default,,0,0,0,,Quand j'ai entendu ça,\Nje me suis senti plutôt heureux.
 Dialogue: 0,0:23:15.49,0:23:16.89,Default,,0,0,0,,Parce que pareil pour moi.
 Dialogue: 0,0:23:17.02,0:23:18.72,Default,,0,0,0,,Tu y vas aussi ?
@@ -379,12 +378,12 @@ Dialogue: 0,0:23:35.04,0:23:38.58,Default,,0,0,0,,une fois qu'on sera une famill
 Dialogue: 0,0:23:40.75,0:23:45.59,Default,,0,0,0,,Bien sûr, sans impliquer de sentiments romantiques.
 Dialogue: 0,0:23:50.09,0:23:57.82,Default,,0,0,0,,J'ai vécu avec toi et c'était vraiment
 Dialogue: 0,0:23:57.82,0:24:00.21,Default,,0,0,0,,drôle et confortable.
-Dialogue: 0,0:24:02.73,0:24:05.70,Default,,0,0,0,,Je pense que tout les jours seraient drôles.
+Dialogue: 0,0:24:02.73,0:24:05.70,Default,,0,0,0,,Je pense que tout les jours seraient amusants.
 Dialogue: 0,0:24:07.47,0:24:09.40,Default,,0,0,0,,Mais...
 Dialogue: 0,0:24:09.40,0:24:11.11,Default,,0,0,0,,Mais ?
-Dialogue: 0,0:24:11.54,0:24:16.60,Default,,0,0,0,,Je ne veux pas que tu te force ou te retiennes.
+Dialogue: 0,0:24:11.54,0:24:16.60,Default,,0,0,0,,Je ne veux pas que tu te forces ou te retiennes.
 Dialogue: 0,0:24:16.60,0:24:19.00,Default,,0,0,0,,C'est bon.
-Dialogue: 0,0:24:19.00,0:24:21.61,Default,,0,0,0,,Parce que malgré ça, je t'aime bien.
+Dialogue: 0,0:24:19.00,0:24:21.61,Default,,0,0,0,,Je le fais parce que je t'aime.
 Dialogue: 0,0:24:21.88,0:24:25.00,Default,,0,0,0,,Même si je ne peux pas faire ce que tu aimes
 Dialogue: 0,0:24:26.87,0:24:29.73,Default,,0,0,0,,ou ce que tu veux ?
 Dialogue: 0,0:24:30.65,0:24:34.59,Default,,0,0,0,,Je ne le comprends pas, mais je sais
@@ -399,22 +398,22 @@ Dialogue: 0,0:24:59.00,0:25:01.40,Default,,0,0,0,,je ne veux pas que tu...
 Dialogue: 0,0:25:01.40,0:25:05.07,Default,,0,0,0,,laisse tomber tout ce qui te rend heureux juste pour moi.
 Dialogue: 0,0:25:05.79,0:25:09.01,Default,,0,0,0,,Je veux que tu sois heureux\Ndu fond de mon cœur.
 Dialogue: 0,0:25:09.79,0:25:11.77,Default,,0,0,0,,C'est pourquoi...
-Dialogue: 0,0:25:14.42,0:25:17.99,Default,,0,0,0,,...on devrait casser.
+Dialogue: 0,0:25:14.42,0:25:17.99,Default,,0,0,0,,...on devrait se séparer.
 Dialogue: 0,0:25:36.00,0:25:38.18,Default,,0,0,0,,Je suis désolée.
 Dialogue: 0,0:25:41.59,0:25:43.99,Default,,0,0,0,,Je pense...
 Dialogue: 0,0:25:45.61,0:25:51.00,Default,,0,0,0,,je t'ai fait beaucoup de mal jusque maintenant.
 Dialogue: 0,0:25:52.99,0:25:56.90,Default,,0,0,0,,Si seulement j'avais appris ça sur moi plus tôt...
 Dialogue: 0,0:25:56.90,0:25:57.94,Default,,0,0,0,,En premier lieu, nou-
-Dialogue: 0,0:25:57.94,0:26:00.00,Default,,0,0,0,,Ne le dit pas !
+Dialogue: 0,0:25:57.94,0:26:00.00,Default,,0,0,0,,Ne le dis pas !
 Dialogue: 0,0:26:02.71,0:26:05.90,Default,,0,0,0,,Moi aussi j'ai dû te faire mal.
-Dialogue: 0,0:26:08.49,0:26:11.80,Default,,0,0,0,,Donc ne te blâme pas pour chaque petite chose.
+Dialogue: 0,0:26:08.49,0:26:11.80,Default,,0,0,0,,Donc ne te blâmes pas pour chaque petite chose.
 Dialogue: 0,0:26:18.90,0:26:20.99,Default,,0,0,0,,Mais...
 Dialogue: 0,0:26:22.56,0:26:26.66,Default,,0,0,0,,Ces cicatrices peuvent guérir autant que possible.
 Dialogue: 0,0:26:27.29,0:26:30.56,Default,,0,0,0,,J'ai appris ça grâce à toi.
 Dialogue: 0,0:26:32.70,0:26:36.61,Default,,0,0,0,,Je ne regretterais jamais\Nd'être tombé pour toi.
 Dialogue: 0,0:26:48.30,0:26:53.70,Default,,0,0,0,,Même si on a rompu, ce n'est pas la fin de tout.
-Dialogue: 0,0:27:38.00,0:27:39.59,Default,,0,0,0,,Je suis de retour.
-Dialogue: 0,0:27:39.59,0:27:41.29,Default,,0,0,0,,Bon retour.
+Dialogue: 0,0:27:38.00,0:27:39.59,Default,,0,0,0,,Je suis rentrée.
+Dialogue: 0,0:27:39.59,0:27:41.29,Default,,0,0,0,,Bienvenue à la maison.
 Dialogue: 0,0:27:44.00,0:27:49.50,Default,,0,0,0,,Sur le chemin du retour,\Nj'ai vu le Marché d'Hokkaido.
 Dialogue: 0,0:28:08.60,0:28:12.59,Default,,0,0,0,,C'est la partie centrale.
 Dialogue: 0,0:28:13.39,0:28:14.73,Default,,0,0,0,,Merci.
